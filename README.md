@@ -1,6 +1,6 @@
 # How to Add Annotations to Nodes and Connectors in a Blazor Diagram
 
-A quick start Blazor project that shows how to add annotations to nodes and connectors in a Blazor Diagram. This project includes a code snippet to align the annotations using Offset, Margin, Horizontal and Vertical Alignment properties, and customize the appearance of annotations using text wrapping and font styles
+A quick start Blazor project that shows how to add annotations to nodes and connectors in a [Blazor Diagram](https://www.syncfusion.com/diagram-sdk/blazor-diagram). This project includes a code snippet to align the annotations using Offset, Margin, Horizontal and Vertical Alignment properties, and customize the appearance of annotations using text wrapping and font styles
  
 Refer to the following documentation to learn about the Blazor Diagram component: 
 https://blazor.syncfusion.com/documentation/diagram/annotations/labels
